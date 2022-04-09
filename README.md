@@ -6,10 +6,10 @@ Implementation of the paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arn
 Name of the paper: DYVINE: Fitness-Based Dynamic Virtual Network
 Embedding in Cloud Computing
 
-Team Members:
-Adithi Srinath, 181CO103
-Arjun A, 181CO109
-Arunava Mukhoti, 181CO210
+Team Members: 
+Adithi Srinath, 181CO103<br>
+Arjun A, 181CO109<br>
+Arunava Mukhoti, 181CO210 <br>
 
 Instructions to run the code:
 $ python3 dyvine_final_1.py
